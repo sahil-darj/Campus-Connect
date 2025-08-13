@@ -42,6 +42,8 @@ project/
 │ ├── package.json
 │ └── .env
 │
+
+
 │── src/
 │ ├── assets/
 │ ├── components/
@@ -55,6 +57,8 @@ project/
 │ ├── index.css
 │ └── vite-env.d.ts
 │
+
+
 │── .gitignore
 │── README.md
 │── package-lock.json
