@@ -36,34 +36,44 @@ CampusConnect is a full-stack MERN application designed to centralize and stream
 ### 1️⃣ Clone the repository
 git clone https://github.com/yourusername/CampusConnect.git
 cd CampusConnect
-
+```
 2️⃣ Install dependencies
 For backend:
-
+```
 cd backend
 npm install
-
+```
 For frontend:
-
+```
 cd ..
 npm install
+```
 3️⃣ Configure Environment Variables
 Create a .env file inside the backend/ folder and add:
 
-
+```
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 PORT=5000
+```
 4️⃣ Run the application
 Backend:
-
+```
 cd backend
 npm start
-
+```
 Frontend:
-
+```
 cd ..
 npm run dev
+```
+## Screenshot of Project
+
+<p align="center">
+  <img src="Screenshot of project/Home page.png" width="600" alt="Homepage">
+</p>
+
+
 ## 📂 Folder Structure
 
 project/
