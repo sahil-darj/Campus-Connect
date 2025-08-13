@@ -78,10 +78,10 @@ npm run dev
 </p>
 
 <p align="center">
-  <img src="Screenshot of project/Dashboard page.png" width="600" alt="Homepage">
+  <img src="Screenshot of project/Dashboard .png" width="600" alt="Homepage">
 </p>
 
-##for more screenshot check out my screenshot folder ...
+## For more screenshot check out my screenshot folder...
 
 
 ## 📂 Folder Structure
