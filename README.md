@@ -31,12 +31,18 @@ CampusConnect is a full-stack MERN application designed to centralize and stream
 ## 📂 Folder Structure
 
 project/
+
 │── backend/
+
 │ ├── models/
+
 │ │ └── User.js
 │ ├── node_modules/
+
 │ ├── routes/
+
 │ │ └── auth.js
+
 │ ├── index.js
 │ ├── package-lock.json
 │ ├── package.json
