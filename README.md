@@ -31,9 +31,9 @@ CampusConnect is a full-stack MERN application designed to centralize and stream
 
 ## ⚡ Installation & Setup
 
-
-```bash
 ### 1️⃣ Clone the repository
+```bash
+
 git clone https://github.com/yourusername/CampusConnect.git
 cd CampusConnect
 ```
@@ -72,6 +72,11 @@ npm run dev
 <p align="center">
   <img src="Screenshot of project/Home page.png" width="600" alt="Homepage">
 </p>
+
+<p align="center">
+  <img src="Screenshot of project/Internship page.png" width="600" alt="Homepage">
+</p>
+
 
 
 ## 📂 Folder Structure
