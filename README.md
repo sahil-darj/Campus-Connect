@@ -48,14 +48,17 @@ project/
 │ ├── package.json
 │ └── .env
 │
-
-
 │── src/
+
 │ ├── assets/
+
 │ ├── components/
+
 │ ├── contexts/
+
 │ ├── data/
 │ │ └── mockData.js
+
 │ ├── pages/
 │ ├── App.jsx
 │ ├── App.tsx
